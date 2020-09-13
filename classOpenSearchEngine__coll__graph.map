@@ -1,0 +1,12 @@
+<map id="OpenSearchEngine" name="OpenSearchEngine">
+<area shape="rect" id="node1" title="A class representing a single search engine described in OpenSearch format." alt="" coords="609,263,784,736"/>
+<area shape="rect" id="node2" href="$classQObject.html" title=" " alt="" coords="5,20,76,97"/>
+<area shape="rect" id="node3" title=" " alt="" coords="100,20,213,97"/>
+<area shape="rect" id="node4" title=" " alt="" coords="237,20,420,97"/>
+<area shape="rect" id="node5" title=" " alt="" coords="469,20,535,97"/>
+<area shape="rect" id="node6" title=" " alt="" coords="629,20,765,97"/>
+<area shape="rect" id="node7" title=" " alt="" coords="789,20,857,97"/>
+<area shape="rect" id="node8" href="$classOpenSearchEngineDelegate.html" title="An abstract class providing custom processing of specific activities." alt="" coords="881,5,1091,112"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1116,20,1237,97"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1261,13,1484,105"/>
+</map>

@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['main_1644',['main',['../main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627',1,'main.cpp']]],
+  ['mainwindow_1645',['mainWindow',['../classBrowserApplication.html#aa5a7fe525866d6d1183e00aa7f330b9c',1,'BrowserApplication']]],
+  ['mainwindows_1646',['mainWindows',['../classBrowserApplication.html#acdd6fd96c52302d81815776d54fc3ef3',1,'BrowserApplication']]],
+  ['makeaction_1647',['makeAction',['../classModelMenu.html#a7a6444dbe52e0c291b9096cdf2fc92c8',1,'ModelMenu::makeAction(const QIcon &amp;icon, const QString &amp;text, QObject *parent)'],['../classModelMenu.html#a2d1fbaaa1d488169cf7de92866a7f275',1,'ModelMenu::makeAction(const QModelIndex &amp;index)']]],
+  ['makenewtab_1648',['makeNewTab',['../classTabWidget.html#acf43a6a1382c7e184566218e6b3e0394',1,'TabWidget']]],
+  ['mapfromsource_1649',['mapFromSource',['../classHistoryFilterModel.html#aaf017a455181a88bff56ee83a96040af',1,'HistoryFilterModel::mapFromSource()'],['../classHistoryMenuModel.html#a62cafa45d12e3ff803b1de286e9a8162',1,'HistoryMenuModel::mapFromSource()'],['../classHistoryTreeModel.html#ac1c3644d0ea764618cff610d52c23f6f',1,'HistoryTreeModel::mapFromSource()']]],
+  ['maptosource_1650',['mapToSource',['../classHistoryFilterModel.html#a296a34362c1f48ed890dbb8535a5bfee',1,'HistoryFilterModel::mapToSource()'],['../classHistoryMenuModel.html#a091d9fd327a79a0f75b3095ccc7b29ca',1,'HistoryMenuModel::mapToSource()'],['../classHistoryTreeModel.html#aade3855b7101ccde73f72c30ba1bd01d',1,'HistoryTreeModel::mapToSource()']]],
+  ['maxrows_1651',['maxRows',['../classModelMenu.html#a342600ce1d9e4ac77de0e6dc69279555',1,'ModelMenu']]],
+  ['menu_1652',['menu',['../classBookmarksManager.html#a410f72c5d0feaf5323936c13344a9420',1,'BookmarksManager']]],
+  ['messagereceived_1653',['messageReceived',['../classBrowserApplication.html#a7b93ce404ffacc5184c3ec6099dc9eb3',1,'BrowserApplication::messageReceived()'],['../classSingleApplication.html#a6012c15ed9a64fd928b9db8d710875c6',1,'SingleApplication::messageReceived()']]],
+  ['metadatachanged_1654',['metaDataChanged',['../classDownloadItem.html#abf7caeb0a2fd037700c2156037c6bc0e',1,'DownloadItem']]],
+  ['mimedata_1655',['mimeData',['../classBookmarksModel.html#a80a13a9f0a75fb81807172a147cd0d83',1,'BookmarksModel::mimeData()'],['../classDownloadModel.html#a8e6b984cfc0b2e23f4772b108174ef24',1,'DownloadModel::mimeData()'],['../classHistoryMenuModel.html#a89bea69eada8cbc332c4dc67e6ea316a',1,'HistoryMenuModel::mimeData()']]],
+  ['mimetypes_1656',['mimeTypes',['../classBookmarksModel.html#a1f32c3a5b3bc841358569466085974cc',1,'BookmarksModel']]],
+  ['model_1657',['model',['../classModelMenu.html#adbc443aeb9dded45fbd10525a903d228',1,'ModelMenu::model()'],['../classModelToolBar.html#a99f781e3d6881d2a731a04a1f9c8e141',1,'ModelToolBar::model()']]],
+  ['modelmenu_1658',['ModelMenu',['../classModelMenu.html#ae99c3641f6b430585262988dd8bc1caa',1,'ModelMenu']]],
+  ['modeltoolbar_1659',['ModelToolBar',['../classModelToolBar.html#ace4bd8b162f9c22ca2c306b7398a689b',1,'ModelToolBar::ModelToolBar(QWidget *parent=nullptr)'],['../classModelToolBar.html#a5b7c7429a4f3f45883e9cfbec6227bbc',1,'ModelToolBar::ModelToolBar(const QString &amp;title, QWidget *parent=nullptr)']]],
+  ['modifywithuserbehavior_1660',['modifyWithUserBehavior',['../classTabWidget.html#a6a0f9653fe3fe69470d795609cd3459d',1,'TabWidget']]],
+  ['mousedoubleclickevent_1661',['mouseDoubleClickEvent',['../classLocationBar.html#a1e274277708302fc4407ad9ea2d48464',1,'LocationBar::mouseDoubleClickEvent()'],['../classTabBar.html#a449fbf0ef19eebfb90a0015169d932b3',1,'TabBar::mouseDoubleClickEvent()']]],
+  ['mousemoveevent_1662',['mouseMoveEvent',['../classLocationBarSiteIcon.html#ab87d7922a4b9a8f7c3329be671e1161d',1,'LocationBarSiteIcon::mouseMoveEvent()'],['../classModelMenu.html#ace116ed3b0179a2a1dffe78812bd9a12',1,'ModelMenu::mouseMoveEvent()'],['../classModelToolBar.html#ab76960711e79fe101ac1c5e39d6f7947',1,'ModelToolBar::mouseMoveEvent()'],['../classTabBar.html#aba32d7936d1151a6b340bb7ad65ed094',1,'TabBar::mouseMoveEvent()']]],
+  ['mousepressevent_1663',['mousePressEvent',['../classBrowserMainWindow.html#a6b7d31ec3e0df8e03e71f733185cd79c',1,'BrowserMainWindow::mousePressEvent()'],['../classLocationBarSiteIcon.html#a14bc60bc0f6876a554be4c86b04fbb49',1,'LocationBarSiteIcon::mousePressEvent()'],['../classPrivacyIndicator.html#a721ae1f749c4dd2adfb07ec54b2713ee',1,'PrivacyIndicator::mousePressEvent()'],['../classModelMenu.html#a037e216e5105842db42d13f113943397',1,'ModelMenu::mousePressEvent()'],['../classTabBar.html#a07b20bb29adf0fa06be2d59c51468043',1,'TabBar::mousePressEvent()'],['../classWebView.html#a4423ce8817dac386ecaf1daaa221b037',1,'WebView::mousePressEvent()']]],
+  ['mousereleaseevent_1664',['mouseReleaseEvent',['../classModelMenu.html#a494942c93fce020d01fb8fe0ee705b29',1,'ModelMenu::mouseReleaseEvent()'],['../classTabBar.html#ab024639de5087bf6829dc75b6a192d5b',1,'TabBar::mouseReleaseEvent()'],['../classWebView.html#afe49c1127e77c764523dc71e83d31546',1,'WebView::mouseReleaseEvent()']]],
+  ['movelanguagedown_1665',['moveLanguageDown',['../classAcceptLanguageDialog.html#a31df11f678a99924a45c65a9956ca203',1,'AcceptLanguageDialog']]],
+  ['movelanguageup_1666',['moveLanguageUp',['../classAcceptLanguageDialog.html#a069cbc7ff00c6c80ceb286534cfaf780',1,'AcceptLanguageDialog']]],
+  ['movetab_1667',['moveTab',['../classTabWidget.html#a8217e2c811aaf7ff2440cb9de6e1683e',1,'TabWidget']]]
+];
